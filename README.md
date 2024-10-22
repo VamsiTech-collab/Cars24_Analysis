@@ -20,7 +20,7 @@
 
 - Website Link : https://www.cars24.com/
 
-# Data Preparation 
+# DATA PREPARATION
 
 # Web_Scraping : 
 
@@ -37,6 +37,39 @@
 3) Powerful search: Easily find elements by tag, class, id, or attributes.
 
 4) Efficient parsing: Quickly navigate and extract data from complex web pages.
+
+# EXPLORATORY DATA ANALYSIS : 
+
+1) UNIVARIATE ANALYSIS
+
+2) BI-VARIATE ANALYSIS
+   
+3) MULTI-VARIATE ANALYSIS
+
+# CONCLUSION :
+
+- Maruti and Hyundai dominate the car market, indicating strong brand loyalty among consumers.
+  
+- Most cars are priced under 7.5 lakhs, with prices inversely related to mileage.
+  
+- Newer models (2022, 2019, 2017) retain higher resale value, comprising 63% of total cars.
+  
+- First-owner cars have a wider price range and better value retention compared to second-owner cars.
+  
+- Petrol vehicles are most prevalent, particularly in resale markets, with consistent price growth observed 
+  over time.
+
+# SUGGESTION TO BUYER:
+
+- Focus on buying popular brands like Maruti or Hyundai, particularly newer models from 2022, 2019, or 2017 for better resale value.
+  
+- Target petrol cars with mileage between 20,000 km and 80,000 km, as they are the most available and commonly resold.
+  
+- Opt for first-owner vehicles to ensure better maintenance and wider price distribution, enhancing overall value. 
+
+
+
+
 
 
 
