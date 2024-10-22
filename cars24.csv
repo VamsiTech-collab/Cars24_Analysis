@@ -1,0 +1,501 @@
+,Brand,Model,Make_Year,Price,Location,Distance travelled in km,EMI per month,Fuel type,owner
+0,Mahindra,Thar ,2020,₹11.93L,Delhi,"11,003","22,708",D,1
+1,Tata,NEXON ,2023,₹8.81L,Ghaziabad,"10,555","16,768",P,1
+2,Tata,Harrier ,2022,₹14.41L,"Golf Course Ext., Gurugram","27,990","27,428",D,1
+3,Ford,Ecosport ,2021,₹8.87L,Noida,"23,480","16,883",D,1
+4,Tata,PUNCH ,2022,₹7.91L,"Raj Nagar Extension, Ghaziabad",450,"15,464",P,1
+5,Tata,NEXON ,2020,₹7.21L,"Rohini, New Delhi","59,866","14,092",D,1
+6,Ford,Ecosport ,2019,₹7.66L,"Rohini, New Delhi","58,503","14,977",P,1
+7,Tata,Tiago ,2023,₹5.23L,"Golf Course Ext., Gurugram","6,676","10,234",P,1
+8,Hyundai,Verna ,2020,₹9.25L,Faridabad,"60,592","17,607",D,1
+9,Maruti,Alto K10 ,2014,₹2.61L,"Rohini, New Delhi","71,297","5,805",P,1
+10,Honda,Amaze ,2022,₹6.95L,"Rohini, New Delhi","15,935","13,587",P,1
+11,Hyundai,GRAND I10 NIOS ,2023,₹7.25L,"Golf Course Ext., Gurugram","2,850","14,174",P,1
+12,MG,HECTOR ,2022,₹15.98L,"Rohini, New Delhi","26,999","30,416",P,1
+13,Hyundai,Verna ,2020,₹9.88L,Noida,"48,995","18,806",D,1
+14,Tata,Tiago ,2022,₹6.84L,"Golf Course Ext., Gurugram","22,874","13,367",C,1
+15,Maruti,Alto ,2019,₹3.16L,"Rohini, New Delhi","60,452","6,178",P,1
+16,Maruti,Celerio ,2016,₹3.94L,Noida,"32,928","7,708",P,1
+17,KIA,CARENS ,2022,₹16.20L,"Golf Course Ext., Gurugram","34,694","30,835",D,1
+18,Maruti,IGNIS ,2019,₹4.62L,Noida,"51,244","9,032",P,1
+19,Renault,TRIBER ,2023,₹6.31L,"Golf Course Ext., Gurugram","6,843","12,344",P,1
+20,Honda,Amaze ,2018,₹7.37L,Bengaluru,"33,476","14,408",D,1
+21,Honda,City ,2013,₹4.57L,"Bhoruka Tech Park, Benga...","84,818","12,035",P,1
+22,Ford,Ecosport ,2016,₹6.13L,"Magrath Road, Bengaluru","71,617","11,984",P,1
+23,Renault,Duster ,2017,₹7.49L,"Magrath Road, Bengaluru","71,918","14,645",D,2
+24,Maruti,Alto K10 ,2016,₹3.18L,"Bhoruka Tech Park, Benga...","65,574","6,217",P,
+25,Maruti,Celerio ,2018,₹5.04L,"Bhoruka Tech Park, Benga...","40,683","9,862",P,1
+26,Maruti,Baleno ,2022,₹7.54L,Bengaluru,"23,050","14,741",P,1
+27,Mahindra,XUV500 ,2015,₹8.05L,Bengaluru,"98,440","17,494",D,1
+28,Renault,Kwid ,2020,₹4.83L,Bengaluru,"24,745","9,435",P,1
+29,Hyundai,i20 ,2010,₹2.71L,"Bhoruka Tech Park, Benga...","62,220","24,091",P,2
+30,Maruti,Celerio ,2015,₹4.18L,Bengaluru,"69,702","8,163",P,1
+31,Hyundai,Elite i20 ,2016,₹6.58L,"Singasandra, Bengaluru","43,248","12,861",P,1
+32,Tata,ALTROZ ,2023,₹8.70L,Bengaluru,"14,929","16,560",P,1
+33,Renault,TRIBER ,2021,₹5.90L,Bengaluru,"54,387","11,529",P,1
+34,Hyundai,i10 ,2013,₹3.34L,Bengaluru,"97,083","8,796",P,1
+35,Tata,ALTROZ ,2022,₹8.66L,Bengaluru,"16,535","16,478",P,1
+36,Tata,ALTROZ ,2022,₹9.32L,Bengaluru,"16,221","17,740",P,1
+37,Maruti,Swift ,2014,₹4.77L,Bengaluru,"32,533","10,611",P,1
+38,Volkswagen,Ameo ,2018,₹6.71L,Bengaluru,"63,632","13,121",D,2
+39,KIA,SELTOS ,2020,₹10.20L,"Bhoruka Tech Park, Benga...","94,361","19,415",D,2
+40,Honda,BR-V ,2016,₹6.36L,Mumbai,"76,286","12,434",P,2
+41,Volkswagen,Polo ,2015,₹3.75L,,"66,024","7,331",P,2
+42,KIA,SELTOS ,2022,₹13.99L,Mumbai,"23,256","26,629",P,1
+43,Maruti,XL6 ,2023,₹11.91L,,"32,447","22,670",C,1
+44,Tata,Harrier ,2019,₹12.33L,Mumbai,"57,103","23,469",D,1
+45,Maruti,XL6 ,2023,₹11.36L,Mumbai ,"21,398","21,623",P,1
+46,Hyundai,NEW I20 ,2022,₹8.49L,Mumbai,"8,477","16,160",P,1
+47,Maruti,New Wagon-R ,2020,₹4.97L,Mumbai,"25,325","9,716",C,1
+48,Renault,TRIBER ,2022,₹6.18L,,"55,853","12,082",P,1
+49,Tata,NEXON ,2021,₹8.02L,,"16,202","15,257",P,1
+50,Honda,City ,2018,₹6.28L,Mumbai,"29,156","12,278",P,2
+51,Maruti,Vitara Brezza ,2016,₹7.27L,Mumbai ,"72,213","14,208",D,1
+52,Maruti,Swift ,2017,₹4.84L,Mumbai ,"74,579","9,465",P,1
+53,Honda,City ,2017,₹6.01L,Mumbai ,"36,568","11,750",P,1
+54,Tata,NEXON ,2022,₹7.53L,Mumbai ,"5,448","14,721",P,2
+55,Honda,Amaze ,2019,₹6.85L,,"44,280","13,392",D,2
+56,Hyundai,GRAND I10 NIOS ,2021,₹6.92L,Mumbai ,"16,808","13,529",P,1
+57,Maruti,Celerio ,2016,₹3.85L,,"42,692","7,521",P,1
+58,Tata,NEXON ,2020,₹8.38L,Mumbai,"63,774","15,951",D,2
+59,Hyundai,Grand i10 ,2019,₹5.17L,Mumbai,"36,507","10,108",P,1
+60,Maruti,Baleno ,2017,₹5.82L,Hyderabad,"12,062","12,951",P,1
+61,Maruti,Grand Vitara ,2023,₹12.10L,Hyderabad,"28,842","23,031",P,1
+62,Maruti,Ertiga ,2022,₹10.34L,Hyderabad,"35,378","19,681",P,1
+63,Ford,Ecosport ,2017,₹6.61L,Hyderabad,"93,259","12,923",D,1
+64,Maruti,Vitara Brezza ,2016,₹7.62L,Hyderabad,"76,173","14,902",D,1
+65,Mahindra,XUV700 ,2022,₹17.60L,Hyderabad,"29,358","33,500",D,1
+66,Hyundai,Elite i20 ,2017,₹6.36L,Hyderabad,"79,690","12,442",P,1
+67,Maruti,Swift ,2016,₹5.18L,Hyderabad,"77,053","10,127",P,1
+68,Maruti,Swift ,2017,₹5.45L,Hyderabad,"25,847","10,655",P,2
+69,Honda,Amaze ,2019,₹6.95L,Hyderabad,"37,615","13,591",P,1
+70,Maruti,Baleno ,2019,₹6.15L,,"74,173","12,033",P,1
+71,Ford,Ecosport ,2020,₹9.30L,Hyderabad,"60,856","17,708",P,1
+72,Tata,NEXON ,2020,₹9.16L,Hyderabad,"32,729","17,435",P,1
+73,Hyundai,Elite i20 ,2016,₹5.13L,Hyderabad,"67,158","10,029",P,1
+74,Tata,NEXON ,2020,₹7.93L,Hyderabad,"75,042","15,499",P,1
+75,Hyundai,NEW SANTRO ,2019,₹4.28L,Hyderabad,"52,881","8,358",P,1
+76,Maruti,Baleno ,2018,₹6.19L,Hyderabad,"62,129","12,102",P,1
+77,Toyota,Glanza ,2019,₹6.93L,Hyderabad,"31,957","13,548",P,1
+78,Honda,WR-V ,2017,₹7.25L,Hyderabad,"97,807","14,168",D,1
+79,Hyundai,Elite i20 ,2016,₹5.64L,Hyderabad,"89,807","11,026",P,1
+80,Hyundai,Elite i20 ,2017,₹5.68L,Ahmedabad,"83,903","11,105",P,1
+81,Honda,City ,2014,₹4.62L,Ahmedabad,"38,067","10,277",P,2
+82,Hyundai,GRAND I10 NIOS ,2020,₹5.30L,Ahmedabad,"46,863","10,362",P,1
+83,Hyundai,Creta ,2022,₹12.27L,Ahmedabad,"43,662","23,362",P,2
+84,Honda,City ,2015,₹5.59L,Ahmedabad,"49,727","10,934",P,1
+85,Honda,Amaze ,2023,₹7.08L,Ahmedabad,"11,550","13,842",P,1
+86,Honda,Jazz ,2018,₹5.72L,Ahmedabad,"30,821","11,183",P,1
+87,MG,HECTOR ,2019,₹12.03L,Ahmedabad,"90,108","22,891",D,1
+88,Maruti,Celerio ,2022,₹5.38L,Ahmedabad,"16,915","10,518",P,1
+89,Tata,Harrier ,2022,₹17.23L,Ahmedabad,"25,391","32,796",D,1
+90,Honda,Jazz ,2017,₹5.12L,Ahmedabad,"33,874","10,010",P,1
+91,Maruti,Ciaz ,2022,₹8.80L,Ahmedabad,"27,376","16,750",P,2
+92,Honda,Jazz ,2018,₹5.02L,Ahmedabad,"70,502","9,814",P,1
+93,Maruti,IGNIS ,2022,₹4.97L,Ahmedabad,"14,836","9,725",P,1
+94,Skoda,Rapid ,2015,₹5.59L,Ahmedabad,"69,833","12,435",D,1
+95,Hyundai,Elite i20 ,2016,₹4.52L,Ahmedabad,"76,800","8,837",P,
+96,Maruti,Baleno ,2017,₹5.40L,Ahmedabad,"76,505","10,557",P,1
+97,Maruti,Baleno ,2021,₹6.84L,Ahmedabad,"27,957","13,372",P,1
+98,Mahindra,XUV700 ,2023,₹21.31L,Ahmedabad,"8,015","40,562",P,1
+99,Jeep,Compass ,2017,₹8.33L,Ahmedabad,"98,052","15,855",D,1
+100,Tata,Harrier ,2022,₹14.41L,"Golf Course Ext., Gurugram","27,990","27,428",D,1
+101,Mahindra,Thar ,2020,₹11.93L,Delhi,"11,003","22,708",D,1
+102,Ford,Ecosport ,2021,₹8.87L,Noida,"23,480","16,883",D,1
+103,Hyundai,Verna ,2020,₹9.88L,Noida,"48,995","18,806",D,1
+104,Tata,NEXON ,2023,₹8.81L,Ghaziabad,"10,555","16,768",P,1
+105,Ford,Ecosport ,2019,₹7.66L,"Rohini, New Delhi","58,503","14,977",P,1
+106,Hyundai,GRAND I10 NIOS ,2023,₹7.25L,"Golf Course Ext., Gurugram","2,850","14,174",P,1
+107,KIA,CARENS ,2022,₹16.20L,"Golf Course Ext., Gurugram","34,694","30,835",D,1
+108,Tata,Tiago ,2022,₹6.84L,"Golf Course Ext., Gurugram","22,874","13,367",C,1
+109,Honda,City ,2017,₹8.08L,"Golf Course Ext., Gurugram","74,671","15,380",P,1
+110,Tata,NEXON ,2020,₹7.21L,"Rohini, New Delhi","59,866","14,092",D,1
+111,Hyundai,Verna ,2020,₹9.25L,Faridabad,"60,592","17,607",D,1
+112,Tata,Tiago ,2023,₹5.23L,"Golf Course Ext., Gurugram","6,676","10,234",P,1
+113,Mahindra,XUV500 ,2021,₹12.99L,"Golf Course Ext., Gurugram","25,366","24,717",D,1
+114,Hyundai,Grand i10 ,2016,₹4.10L,"Golf Course Ext., Gurugram","89,071","8,020",P,1
+115,Maruti,Celerio ,2016,₹3.94L,Noida,"32,928","7,708",P,1
+116,MG,HECTOR ,2022,₹15.98L,"Rohini, New Delhi","26,999","30,416",P,1
+117,Renault,TRIBER ,2023,₹6.31L,"Golf Course Ext., Gurugram","6,843","12,344",P,1
+118,Maruti,Ciaz ,2018,₹6.83L,"Golf Course Ext., Gurugram","45,254","13,355",P,2
+119,Maruti,Ciaz ,2019,₹7.14L,"Golf Course Ext., Gurugram","59,733","13,959",P,1
+120,Maruti,Swift ,2015,₹4.43L,Chennai,"79,625","8,653",P,2
+121,Maruti,Swift ,2022,₹7.02L,Chennai,"15,391","13,732",P,1
+122,Datsun,Redi Go ,2021,₹3.47L,Chennai,"42,061","6,784",P,1
+123,Toyota,URBAN CRUISER ,2022,₹9.71L,Chennai,"37,842","18,479",P,1
+124,Renault,Kwid ,2019,₹3.78L,Chennai,"50,746","7,390",P,1
+125,Volkswagen,Vento ,2018,₹7.76L,Chennai,"52,760","15,171",P,1
+126,Tata,ALTROZ ,2022,₹6.63L,Chennai,"16,310","12,959",P,2
+127,Tata,Tiago ,2022,₹5.53L,Chennai,"16,900","10,807",P,2
+128,Honda,City ,2022,₹12.20L,Chennai,"16,277","23,222",P,1
+129,Honda,City ,2019,₹8.73L,Chennai,"55,204","16,617",P,2
+130,Hyundai,Verna ,2019,₹7.71L,Chennai,"70,609","15,073",P,1
+131,Hyundai,Grand i10 ,2019,₹4.64L,Chennai,"52,746","9,071",P,2
+132,Hyundai,Verna ,2019,₹8.67L,Chennai,"70,063","16,503",P,2
+133,Maruti,Alto ,2019,₹3.34L,Chennai,"56,146","6,530",P,1
+134,Honda,Jazz ,2018,₹5.22L,Chennai,"84,221","10,205",P,1
+135,Honda,City ,2022,₹11.95L,Chennai,"54,116","22,746",P,1
+136,Renault,Kwid ,2022,₹4.52L,Chennai,"7,578","8,837",P,1
+137,Hyundai,GRAND I10 NIOS ,2021,₹5.88L,Chennai,"21,826","11,496",P,2
+138,Tata,NEXON ,2022,₹10.42L,Chennai,"21,749","19,834",P,1
+139,Maruti,Ciaz ,2022,₹8.65L,Chennai,"46,547","16,464",P,2
+140,Maruti,Baleno ,2017,₹5.72L,Pune,"42,009","11,178",P,1
+141,Hyundai,Verna ,2014,₹5.03L,Pune,"61,594","11,189",P,1
+142,Hyundai,NEW I20 ,2021,₹7.73L,Pune,"51,759","15,112",P,1
+143,Maruti,Swift ,2013,₹3.39L,Pune,"87,105","8,927",P,2
+144,Maruti,New Wagon-R ,2020,₹5.38L,Pune,"61,316","10,517",C,1
+145,Hyundai,i10 ,2013,₹2.64L,Pune,"72,306","6,952",P,
+146,Honda,City ,2020,₹10.12L,Pune,"19,482","19,262",P,1
+147,Honda,Brio ,2013,₹2.81L,Pune,"71,010","7,400",P,1
+148,Tata,ALTROZ ,2022,₹8.06L,Pune,"32,581","15,340",P,1
+149,Volkswagen,Polo ,2013,₹4.01L,Pune,"39,983","10,560",P,2
+150,Skoda,Rapid ,2021,₹9.05L,Pune,"19,675","17,226",P,2
+151,Tata,ALTROZ ,2022,₹7.49L,Pune,"19,462","14,643",P,1
+152,MG,HECTOR ,2022,₹13.65L,Pune,"13,367","25,982",P,1
+153,Tata,TIGOR ,2018,₹5.12L,Pune,"4,443","11,383",P,1
+154,Renault,TRIBER ,2022,₹6.52L,Pune,"32,263","12,747",P,1
+155,Nissan,Terrano ,2013,₹3.93L,Pune,"77,612","13,053",D,2
+156,Tata,ALTROZ ,2023,₹8.83L,Pune,"14,754","16,807",P,1
+157,Maruti,Swift Dzire ,2012,₹3.98L,Pune,"64,175","13,221",P,1
+158,Maruti,Wagon R 1.0 ,2016,₹3.39L,Pune,"78,853","6,628",P,2
+159,Honda,City ,2017,₹6.65L,Pune,"20,365","13,001",P,1
+160,Tata,Harrier ,2022,₹14.41L,"Golf Course Ext., Gurugram","27,990","27,428",D,1
+161,Ford,Ecosport ,2021,₹8.87L,Noida,"23,480","16,883",D,1
+162,Maruti,Celerio ,2016,₹3.94L,Noida,"32,928","7,708",P,1
+163,Ford,Ecosport ,2019,₹7.66L,"Rohini, New Delhi","58,503","14,977",P,1
+164,Maruti,IGNIS ,2019,₹4.62L,Noida,"51,244","9,032",P,1
+165,Mahindra,Thar ,2020,₹11.93L,Delhi,"11,003","22,708",D,1
+166,Tata,Tiago ,2023,₹5.68L,Noida,"17,297","11,102",P,1
+167,Tata,PUNCH ,2022,₹7.91L,"Raj Nagar Extension, Ghaziabad",450,"15,464",P,1
+168,Maruti,Alto ,2019,₹3.16L,"Rohini, New Delhi","60,452","6,178",P,1
+169,Honda,Amaze ,2022,₹6.95L,"Rohini, New Delhi","15,935","13,587",P,1
+170,Tata,Tiago ,2022,₹6.84L,"Golf Course Ext., Gurugram","22,874","13,367",C,1
+171,Honda,City ,2017,₹8.08L,"Golf Course Ext., Gurugram","74,671","15,380",P,1
+172,KIA,CARENS ,2022,₹16.20L,"Golf Course Ext., Gurugram","34,694","30,835",D,1
+173,Tata,NEXON ,2020,₹7.21L,"Rohini, New Delhi","59,866","14,092",D,1
+174,Hyundai,Verna ,2020,₹9.25L,Faridabad,"60,592","17,607",D,1
+175,Tata,NEXON ,2023,₹8.81L,Ghaziabad,"10,555","16,768",P,1
+176,MG,HECTOR ,2022,₹15.98L,"Rohini, New Delhi","26,999","30,416",P,1
+177,Hyundai,Verna ,2020,₹9.88L,Noida,"48,995","18,806",D,1
+178,Tata,Tiago ,2023,₹5.23L,"Golf Course Ext., Gurugram","6,676","10,234",P,1
+179,Hyundai,NEW SANTRO ,2020,₹5.04L,Noida,"62,996","9,845",C,1
+180,Tata,NEXON ,2023,₹8.81L,Ghaziabad,"10,555","16,768",P,1
+181,Mahindra,Thar ,2020,₹11.93L,Delhi,"11,003","22,708",D,1
+182,Tata,Harrier ,2022,₹14.41L,"Golf Course Ext., Gurugram","27,990","27,428",D,1
+183,Ford,Ecosport ,2019,₹7.66L,"Rohini, New Delhi","58,503","14,977",P,1
+184,Ford,Ecosport ,2021,₹8.87L,Noida,"23,480","16,883",D,1
+185,Hyundai,Verna ,2020,₹9.88L,Noida,"48,995","18,806",D,1
+186,Hyundai,Verna ,2020,₹9.25L,Faridabad,"60,592","17,607",D,1
+187,Honda,City ,2017,₹8.08L,"Golf Course Ext., Gurugram","74,671","15,380",P,1
+188,Honda,Amaze ,2022,₹6.95L,"Rohini, New Delhi","15,935","13,587",P,1
+189,Tata,Tiago ,2022,₹6.84L,"Golf Course Ext., Gurugram","22,874","13,367",C,1
+190,Maruti,Alto ,2022,₹3.93L,"Raj Nagar Extension, Ghaziabad","27,017","7,675",P,1
+191,Maruti,Celerio ,2016,₹3.94L,Noida,"32,928","7,708",P,1
+192,MG,HECTOR ,2022,₹15.98L,"Rohini, New Delhi","26,999","30,416",P,1
+193,Tata,Tiago ,2023,₹5.23L,"Golf Course Ext., Gurugram","6,676","10,234",P,1
+194,Tata,NEXON ,2020,₹7.21L,"Rohini, New Delhi","59,866","14,092",D,1
+195,Tata,PUNCH ,2022,₹7.91L,"Raj Nagar Extension, Ghaziabad",450,"15,464",P,1
+196,Maruti,Ciaz ,2017,₹6.01L,"Raj Nagar Extension, Ghaziabad","92,389","11,750",P,1
+197,Maruti,Alto ,2019,₹3.16L,"Rohini, New Delhi","60,452","6,178",P,1
+198,Maruti,Ciaz ,2018,₹7.18L,Noida,"76,156","14,029",P,1
+199,Hyundai,Grand i10 ,2016,₹4.10L,"Golf Course Ext., Gurugram","89,071","8,020",P,1
+200,Maruti,Baleno ,2018,₹5.42L,Lucknow,"68,917","10,597",P,2
+201,Maruti,Swift ,2020,₹6.50L,Lucknow,"72,424","12,711",P,1
+202,Hyundai,Creta ,2017,₹7.92L,Lucknow,"63,693","15,478",P,1
+203,Hyundai,NEW SANTRO ,2019,₹3.85L,Lucknow,"53,723","7,529",P,1
+204,Hyundai,Grand i10 ,2018,₹4.68L,Lucknow,"21,190","9,150",P,1
+205,Honda,Amaze ,2022,₹7.59L,Lucknow,"52,094","14,839",P,1
+206,Hyundai,NEW SANTRO ,2019,₹3.85L,Lucknow,"58,578","7,529",P,1
+207,Hyundai,NEW SANTRO ,2019,₹4.49L,Lucknow,"18,416","8,778",P,1
+208,Maruti,Vitara Brezza ,2019,₹6.77L,Lucknow,"81,340","13,235",D,2
+209,Maruti,Vitara Brezza ,2019,₹6.50L,Lucknow,"73,076","12,708",D,1
+210,Nissan,MAGNITE ,2021,₹6.89L,Lucknow,"25,522","13,474",P,1
+211,Maruti,Baleno ,2019,₹4.91L,Lucknow,"62,897","9,599",P,1
+212,Maruti,S PRESSO ,2020,₹3.61L,Lucknow,"43,589","7,064",P,1
+213,Maruti,Swift ,2018,₹5.42L,Lucknow,"26,403","10,596",P,2
+214,Volkswagen,Ameo ,2017,₹3.92L,Lucknow,"18,954","8,720",D,1
+215,Hyundai,Grand i10 ,2015,₹3.36L,Lucknow,"40,227","6,569",P,
+216,Renault,Kwid ,2020,₹3.46L,Lucknow,"27,046","6,764",P,1
+217,KIA,SONET ,2021,₹9.96L,Lucknow,"37,694","18,958",P,1
+218,Hyundai,Grand i10 ,2017,₹3.54L,Lucknow,"86,009","6,921",P,1
+219,Maruti,Swift ,2016,₹3.84L,Lucknow,"80,516","7,502",P,2
+220,Honda,Brio ,2015,₹3.25L,Jaipur,"51,030","6,347",P,2
+221,Hyundai,Verna ,2013,₹4.03L,Jaipur,"74,220","13,385",D,2
+222,Volkswagen,Ameo ,2017,₹3.95L,Jaipur,"95,176","7,722",P,2
+223,Maruti,Baleno ,2017,₹5.36L,Jaipur,"45,352","10,479",P,1
+224,Renault,Duster ,2017,₹4.85L,Jaipur,"98,059","9,482",D,1
+225,Hyundai,AURA ,2020,₹5.73L,Jaipur,"33,659","11,195",P,1
+226,Maruti,Baleno ,2022,₹6.95L,Jaipur,"42,393","13,587",P,1
+227,Hyundai,NEW SANTRO ,2020,₹4.71L,Jaipur,"28,560","9,208",P,2
+228,Maruti,Baleno ,2020,₹6.33L,Jaipur,"44,427","12,383",P,1
+229,Tata,ALTROZ ,2021,₹6.24L,Jaipur,"43,585","12,199",P,1
+230,Honda,Brio ,2016,₹3.25L,Jaipur,"51,517","6,354",P,2
+231,Datsun,Go ,2018,₹3.48L,Jaipur,"75,191","6,799",P,1
+232,Renault,Kwid ,2020,₹4.01L,Jaipur,"47,124","7,840",P,2
+233,Maruti,Alto K10 ,2022,₹5.03L,Jaipur,"25,131","9,834",C,1
+234,Maruti,New Wagon-R ,2019,₹4.79L,Jaipur,"39,209","9,365",P,
+235,Mahindra,KUV 100 NXT ,2017,₹3.47L,Jaipur,"33,275","6,784",P,1
+236,Maruti,XL6 ,2021,₹9.50L,Jaipur,"14,601","18,082",P,1
+237,Tata,NEXON ,2020,₹9.41L,Jaipur,"68,669","17,911",D,1
+238,Tata,Tiago ,2022,₹6.80L,Jaipur,"20,500","13,303",C,1
+239,Honda,Amaze ,2023,₹7.14L,Jaipur,"8,240","13,959",P,2
+240,Maruti,Alto 800 ,2017,₹2.31L,Kolkata,"73,849","4,516",P,1
+241,Ford,Ecosport ,2018,₹5.84L,Kolkata,"78,848","11,417",P,1
+242,Maruti,S PRESSO ,2021,₹3.93L,Kolkata,"13,005","7,683",P,1
+243,Hyundai,Grand i10 ,2017,₹3.85L,Kolkata,"97,249","7,527",P,1
+244,Tata,NEXON ,2019,₹5.89L,Kolkata,"24,682","11,515",P,2
+245,Maruti,Wagon R 1.0 ,2015,₹2.86L,Kolkata,"49,070","5,582",P,1
+246,Maruti,Swift ,2023,₹6.39L,Kolkata,"20,472","12,491",P,1
+247,Mahindra,KUV 100 NXT ,2017,₹3.39L,Kolkata,"49,526","6,628",P,1
+248,Hyundai,Verna ,2018,₹6.65L,Kolkata,"60,788","13,001",P,1
+249,Honda,City ,2014,₹3.79L,Kolkata,"54,807","9,981",D,1
+250,Datsun,Redi Go ,2020,₹2.97L,Kolkata,"31,958","5,806",P,1
+251,Maruti,Dzire ,2018,₹5.25L,Kolkata,"71,155","10,264",P,2
+252,Hyundai,Grand i10 ,2017,₹3.60L,Kolkata,"15,587","7,031",P,1
+253,Hyundai,Eon ,2018,₹2.40L,Kolkata,"65,613","4,692",P,2
+254,Hyundai,Verna ,2018,₹7.21L,Kolkata,"34,218","14,096",P,1
+255,Ford,Ecosport ,2017,₹3.85L,Kolkata,"18,206","8,575",P,2
+256,Honda,WR-V ,2019,₹5.37L,Kolkata,"20,314","10,493",P,2
+257,Hyundai,GRAND I10 NIOS ,2021,₹5.96L,Kolkata,"15,874","11,652",P,1
+258,Hyundai,Verna ,2018,₹6.18L,Kolkata,"60,448","12,075",P,1
+259,Hyundai,Xcent ,2017,₹3.53L,Kolkata,"90,793","6,901",P,2
+260,Honda,City ,2017,₹7.26L,Kochi,"84,180","14,193",P,
+261,Hyundai,Elite i20 ,2016,₹4.96L,Kochi,"88,529","9,707",P,1
+262,Hyundai,VENUE ,2021,₹6.94L,Kochi,"63,513","13,568",P,1
+263,Tata,Tiago ,2021,₹5.56L,Kochi,"26,410","10,870",P,1
+264,Toyota,Etios Liva ,2012,₹3.74L,Kochi,"97,533","17,605",D,1
+265,Hyundai,Elite i20 ,2015,₹4.99L,Kochi,"71,081","9,746",P,1
+266,Hyundai,Eon ,2016,₹2.34L,Kochi,"63,609","4,583",P,2
+267,Jeep,Compass ,2017,₹11.35L,Kochi,"81,512","21,604",D,1
+268,Datsun,Redi Go ,2017,₹2.03L,Kochi,"52,887","3,969",P,2
+269,Nissan,MAGNITE ,2021,₹6.85L,Kochi,"48,217","13,392",P,1
+270,Maruti,Alto ,2011,₹1.53L,Kochi,"71,857","7,202",P,1
+271,Maruti,Ciaz ,2015,₹5.28L,Kochi,"89,751","10,323",P,1
+272,Maruti,Alto 800 ,2013,₹2.15L,Kochi,"58,842","5,662",P,1
+273,Honda,WR-V ,2018,₹6.52L,Kochi,"22,406","12,747",C,2
+274,Hyundai,Elite i20 ,2014,₹4.44L,Kochi,"74,399","9,877",P,2
+275,Tata,ALTROZ ,2021,₹6.10L,Kochi,"10,137","11,921",P,1
+276,Honda,Jazz ,2017,₹5.70L,Kochi,"25,575","11,144",P,1
+277,Hyundai,i20 ,2012,₹3.01L,Kochi,"95,352","14,169",D,1
+278,Maruti,Wagon R 1.0 ,2015,₹3.69L,Kochi,"65,802","7,214",P,1
+279,Maruti,Wagon R 1.0 ,2015,₹3.24L,Kochi,"91,783","6,334",P,2
+280,Honda,City ,2016,₹6.07L,Nagpur,"41,085","11,867",P,2
+281,Hyundai,Grand i10 ,2014,₹3.66L,Nagpur,"93,088","8,141",P,1
+282,Maruti,Wagon R 1.0 ,2015,₹3.41L,Nagpur,"56,620","6,667",P,1
+283,Maruti,Vitara Brezza ,2017,₹6.52L,Nagpur,"17,158","14,509",D,2
+284,Maruti,Swift Dzire ,2016,₹5.28L,Nagpur,"83,828","10,323",D,1
+285,Maruti,Alto 800 ,2015,₹2.25L,Nagpur,"80,387","4,399",P,1
+286,Maruti,Dzire ,2018,₹5.50L,Nagpur,"52,910","10,753",P,
+287,Hyundai,Elite i20 ,2017,₹5.05L,Nagpur,"94,255","9,873",P,1
+288,Maruti,Celerio ,2019,₹4.12L,Nagpur,"37,817","8,062",P,1
+289,Renault,Kwid ,2019,₹3.47L,Nagpur,"40,347","6,784",P,2
+290,Honda,Amaze ,2016,₹3.80L,Nagpur,"69,690","7,429",P,1
+291,Renault,Kwid ,2017,₹2.94L,Nagpur,"30,597","5,748",P,1
+292,Maruti,Wagon R 1.0 ,2013,₹2.60L,Nagpur,"57,563","6,847",P,1
+293,Volkswagen,Ameo ,2019,₹5.19L,Nagpur,"67,977","10,149",P,1
+294,Renault,TRIBER ,2020,₹6.19L,Nagpur,"37,860","12,102",P,1
+295,Hyundai,Grand i10 ,2015,₹4.03L,Nagpur,"54,434","7,885",P,2
+296,Maruti,Alto K10 ,2015,₹2.31L,Nagpur,"57,981","4,516",P,2
+297,Nissan,MAGNITE ,2022,₹6.63L,Nagpur,"24,829","12,962",P,1
+298,Maruti,Baleno ,2017,₹4.78L,Nagpur,"62,669","9,345",P,1
+299,Tata,PUNCH ,2021,₹7.32L,Nagpur,"38,262","14,311",P,1
+300,Nissan,Micra ,2017,₹4.57L,Coimbatore,"49,717","8,940",P,1
+301,Tata,NEXON ,2022,₹9.15L,Coimbatore,"31,849","17,416",P,1
+302,Tata,NEXON ,2020,₹7.76L,Coimbatore,"15,196","15,171",P,
+303,Hyundai,Elite i20 ,2018,₹6.52L,Coimbatore,"36,593","12,747",P,2
+304,Honda,Brio ,2015,₹3.55L,Coimbatore,"54,174","6,940",P,
+305,Hyundai,Xcent ,2016,₹4.21L,Coimbatore,"10,145","9,365",P,1
+306,Hyundai,Elite i20 ,2018,₹5.60L,Coimbatore,"72,989","10,948",P,2
+307,Maruti,Dzire ,2017,₹6.56L,Coimbatore,"61,749","12,834",D,1
+308,Jeep,Compass ,2018,₹11.10L,Coimbatore,"74,364","21,128",D,1
+309,Tata,PUNCH ,2021,₹7.19L,Coimbatore,"46,450","14,057",P,2
+310,KIA,SONET ,2020,₹9.50L,Coimbatore,"35,061","18,082",P,2
+311,Honda,Amaze ,2018,₹6.25L,Coimbatore,"46,946","12,219",P,2
+312,Honda,Amaze ,2018,₹6.05L,Coimbatore,"39,478","11,828",P,2
+313,Honda,City ,2020,₹8.74L,Coimbatore,"37,635","16,636",P,2
+314,Hyundai,Elite i20 ,2016,₹6.07L,Coimbatore,"37,125","11,867",P,2
+315,Ford,FREESTYLE ,2018,₹5.11L,Coimbatore,"95,579","9,982",P,1
+316,MG,HECTOR PLUS ,2021,₹16.32L,Coimbatore,"82,269","31,064",P,1
+317,Honda,WR-V ,2022,₹8.60L,Coimbatore,"15,590","16,369",P,1
+318,Tata,NEXON ,2022,₹8.10L,Coimbatore,"42,982","15,418",P,1
+319,Renault,TRIBER ,2020,₹5.70L,Coimbatore,"70,715","11,144",P,2
+320,Maruti,Baleno ,2017,₹5.43L,Lasudia Mori,"91,199","10,616",P,1
+321,KIA,SELTOS ,2020,₹9.20L,Lasudia Mori,"79,137","17,511",P,1
+322,Renault,Kwid ,2020,₹3.64L,Lasudia Mori,"47,568","7,113",P,2
+323,Maruti,Alto K10 ,2013,₹1.94L,Lasudia Mori,"66,195","5,109",P,2
+324,Ford,Ecosport ,2017,₹4.91L,Lasudia Mori,"41,171","9,604",P,1
+325,Maruti,Swift ,2016,₹4.39L,Lasudia Mori,"28,604","8,583",P,1
+326,Hyundai,Elite i20 ,2017,₹4.22L,Lasudia Mori,"81,906","8,250",P,
+327,Maruti,Wagon R 1.0 ,2013,₹2.67L,Lasudia Mori,"22,212","7,031",P,1
+328,Maruti,New Wagon-R ,2019,₹4.39L,Lasudia Mori,"29,590","8,583",P,2
+329,Tata,NEXON ,2019,₹5.97L,Lasudia Mori,"73,447","11,671",D,1
+330,Honda,Amaze ,2022,₹7.05L,Lasudia Mori,"28,579","13,779",P,1
+331,Hyundai,VENUE ,2022,₹7.38L,Lasudia Mori,"34,109","14,428",P,1
+332,Honda,Amaze ,2018,₹5.70L,Lasudia Mori,"60,665","11,144",D,1
+333,Toyota,Glanza ,2019,₹5.70L,Lasudia Mori,"46,283","11,144",P,1
+334,Renault,Kwid ,2020,₹3.80L,Lasudia Mori,"75,274","7,429",P,1
+335,Honda,Amaze ,2016,₹4.29L,Lasudia Mori,"45,124","8,387",P,2
+336,Maruti,Wagon R 1.0 ,2017,₹3.35L,Lasudia Mori,"28,842","6,549",P,1
+337,Mahindra,XUV300 ,2019,₹8.92L,Lasudia Mori,"43,149","16,978",D,1
+338,Maruti,Baleno ,2017,₹5.67L,Lasudia Mori,"45,013","11,075",P,1
+339,Maruti,IGNIS ,2021,₹6.39L,Lasudia Mori,"14,607","12,493",P,1
+340,Honda,WR-V ,2018,₹7.23L,Patna,"67,994","14,135",D,1
+341,Tata,TIGOR ,2020,₹6.22L,Patna,"10,707","12,165",P,1
+342,Maruti,IGNIS ,2019,₹4.41L,Patna,"95,015","8,619",P,1
+343,Maruti,Alto 800 ,2014,₹2.22L,Patna,"73,060","4,938",P,2
+344,Mahindra,Bolero ,2012,₹3.11L,Patna,"69,648","14,660",D,1
+345,Hyundai,Creta ,2018,₹8.47L,Patna,"65,357","16,122",D,1
+346,Tata,NEXON ,2021,₹6.05L,Patna,"40,113","11,828",P,1
+347,Tata,ALTROZ ,2021,₹5.75L,Patna,"45,916","11,241",D,1
+348,Ford,FREESTYLE ,2018,₹5.52L,Patna,"33,949","10,792",D,1
+349,Toyota,URBAN CRUISER ,2021,₹8.65L,Patna,"20,309","16,464",P,1
+350,Maruti,S PRESSO ,2022,₹4.85L,Patna,"11,410","9,482",P,1
+351,Ford,FREESTYLE ,2019,₹4.87L,Patna,"53,527","9,521",P,1
+352,Maruti,Wagon R 1.0 ,2012,₹2.02L,Patna,"70,871","6,709",P,1
+353,Hyundai,GRAND I10 NIOS ,2022,₹5.75L,Patna,"37,874","11,241",P,1
+354,Maruti,Ciaz ,2021,₹7.03L,Patna,"37,152","13,744",P,2
+355,Maruti,Ciaz ,2018,₹6.34L,Patna,"46,425","12,395",P,2
+356,Hyundai,Grand i10 ,2019,₹4.97L,Patna,"23,371","9,714",P,2
+357,Honda,City ,2017,₹6.48L,Patna,"45,754","12,669",P,2
+358,Honda,WR-V ,2017,₹6.05L,Patna,"75,283","11,822",P,1
+359,Hyundai,i20 ,2011,₹1.99L,Patna,"77,420","9,368",P,1
+360,Nissan,MAGNITE ,2023,₹5.67L,Surat,"36,248","11,092",P,1
+361,Hyundai,VENUE ,2021,₹8.49L,Surat,"19,139","16,160",P,1
+362,Mahindra,XUV500 ,2018,₹10.00L,Surat,"87,907","19,034",D,2
+363,Renault,Kwid ,2023,₹4.98L,Surat,"4,588","9,736",P,1
+364,Hyundai,Elite i20 ,2019,₹6.65L,Surat,"95,643","13,001",D,1
+365,Honda,Brio ,2014,₹3.13L,Surat,"51,267","6,951",P,2
+366,Hyundai,Grand i10 ,2016,₹4.15L,Surat,"94,622","9,231",C,1
+367,Hyundai,Xcent ,2016,₹4.06L,Surat,"62,673","7,937",P,1
+368,Maruti,Baleno ,2021,₹7.65L,Surat,"21,155","14,956",P,1
+369,Maruti,Vitara Brezza ,2016,₹7.80L,Surat,"37,754","15,249",D,1
+370,Honda,WR-V ,2018,₹6.53L,Surat,"53,426","12,766",P,1
+371,Ford,Ecosport ,2019,₹6.89L,Surat,"74,193","13,470",P,2
+372,Maruti,S PRESSO ,2020,₹4.29L,Surat,"17,584","8,387",P,1
+373,Maruti,IGNIS ,2022,₹6.65L,Surat,"21,281","13,001",P,1
+374,Hyundai,Grand i10 ,2017,₹5.03L,Surat,"88,433","9,834",P,1
+375,Hyundai,Creta ,2016,₹7.53L,Surat,"77,051","14,721",P,1
+376,Hyundai,Grand i10 ,2017,₹5.18L,Surat,"35,716","10,127",P,1
+377,Honda,Jazz ,2018,₹5.99L,Surat,"31,353","11,711",P,1
+378,Renault,Kwid ,2016,₹2.11L,Surat,"58,987","4,125",P,2
+379,Hyundai,AURA ,2021,₹6.61L,Surat,"55,433","12,918",C,1
+380,Maruti,S PRESSO ,2019,₹4.18L,Chandigarh,"71,256","8,172",C,1
+381,Renault,Kwid ,2023,₹5.39L,Chandigarh,"5,467","10,533",P,1
+382,Maruti,Ciaz ,2019,₹7.92L,Chandigarh,"30,908","15,484",P,1
+383,Volkswagen,Polo ,2019,₹4.43L,Chandigarh,"45,023","8,658",P,1
+384,Maruti,Celerio ,2018,₹4.14L,Chandigarh,"39,297","8,087",P,1
+385,Hyundai,Verna ,2020,₹10.51L,Chandigarh,"54,966","20,005",D,2
+386,KIA,SELTOS ,2020,₹9.68L,Chandigarh,"46,338","18,425",D,1
+387,Maruti,Swift ,2021,₹6.30L,Chandigarh,"39,153","12,317",P,1
+388,Toyota,Innova ,2015,₹8.53L,Chandigarh,"90,896","18,546",D,
+389,Ford,Ecosport ,2016,₹4.60L,Chandigarh,"00,239","10,232",D,1
+390,Volkswagen,Vento ,2018,₹7.35L,Chandigarh,"79,938","14,374",D,2
+391,Skoda,Rapid ,2019,₹6.69L,Chandigarh,"39,582","13,076",P,1
+392,Hyundai,VENUE ,2021,₹9.06L,Chandigarh,"34,028","17,254",P,1
+393,Mahindra,Thar ,2021,₹12.74L,Chandigarh,"47,125","24,249",P,1
+394,Nissan,MAGNITE ,2022,₹6.04L,Chandigarh,"29,245","11,801",P,1
+395,Tata,NEXON ,2018,₹5.39L,Chandigarh,"67,304","10,538",C,2
+396,KIA,SELTOS ,2019,₹10.18L,Chandigarh,"71,561","19,377",P,2
+397,Maruti,Ciaz ,2018,₹6.59L,Chandigarh,"13,475","14,659",D,1
+398,Ford,Ecosport ,2018,₹5.97L,Chandigarh,"53,530","11,671",D,1
+399,Hyundai,NEW I20 ,2020,₹7.45L,Chandigarh,"23,262","14,561",P,2
+400,Maruti,S PRESSO ,2019,₹4.18L,Chandigarh,"71,256","8,172",C,1
+401,Renault,Kwid ,2023,₹5.39L,Chandigarh,"5,467","10,533",P,1
+402,Maruti,Ciaz ,2019,₹7.92L,Chandigarh,"30,908","15,484",P,1
+403,Volkswagen,Polo ,2019,₹4.43L,Chandigarh,"45,023","8,658",P,1
+404,Maruti,Celerio ,2018,₹4.14L,Chandigarh,"39,297","8,087",P,1
+405,Hyundai,Verna ,2020,₹10.51L,Chandigarh,"54,966","20,005",D,2
+406,KIA,SELTOS ,2020,₹9.68L,Chandigarh,"46,338","18,425",D,1
+407,Maruti,Swift ,2021,₹6.30L,Chandigarh,"39,153","12,317",P,1
+408,Toyota,Innova ,2015,₹8.53L,Chandigarh,"90,896","18,546",D,
+409,Ford,Ecosport ,2016,₹4.60L,Chandigarh,"00,239","10,232",D,1
+410,Volkswagen,Vento ,2018,₹7.35L,Chandigarh,"79,938","14,374",D,2
+411,Skoda,Rapid ,2019,₹6.69L,Chandigarh,"39,582","13,076",P,1
+412,Hyundai,VENUE ,2021,₹9.06L,Chandigarh,"34,028","17,254",P,1
+413,Mahindra,Thar ,2021,₹12.74L,Chandigarh,"47,125","24,249",P,1
+414,Nissan,MAGNITE ,2022,₹6.04L,Chandigarh,"29,245","11,801",P,1
+415,Tata,NEXON ,2018,₹5.39L,Chandigarh,"67,304","10,538",C,2
+416,KIA,SELTOS ,2019,₹10.18L,Chandigarh,"71,561","19,377",P,2
+417,Maruti,Ciaz ,2018,₹6.59L,Chandigarh,"13,475","14,659",D,1
+418,Ford,Ecosport ,2018,₹5.97L,Chandigarh,"53,530","11,671",D,1
+419,Hyundai,NEW I20 ,2020,₹7.45L,Chandigarh,"23,262","14,561",P,2
+420,Mahindra,Thar ,2021,₹13.31L,Faridabad,"42,227","25,334",P,1
+421,Hyundai,Verna ,2020,₹9.25L,Faridabad,"60,592","17,607",D,1
+422,Maruti,Baleno ,2020,₹5.19L,Faridabad,"46,628","10,147",P,1
+423,Maruti,Swift ,2017,₹4.18L,Faridabad,"58,539","8,172",P,1
+424,Tata,Harrier ,2019,₹10.60L,Faridabad,"56,690","23,041",D,2
+425,Maruti,IGNIS ,2018,₹5.55L,Faridabad,"31,802","10,848",P,1
+426,Nissan,MAGNITE ,2022,₹5.51L,Faridabad,"36,341","10,772",P,1
+427,Hyundai,Creta ,2016,₹6.81L,Faridabad,"84,938","15,148",C,2
+428,Maruti,New Wagon-R ,2022,₹6.08L,Faridabad,"38,261","11,882",C,1
+429,Ford,Ecosport ,2020,₹7.03L,Faridabad,"71,807","13,744",D,2
+430,Maruti,S Cross ,2022,₹8.52L,Faridabad,"15,983","16,217",P,1
+431,Maruti,Swift ,2013,₹2.82L,Faridabad,"61,671","7,424",P,1
+432,Hyundai,Creta ,2015,₹5.69L,Faridabad,"2,963","12,650",P,
+433,Maruti,Ciaz ,2018,₹6.58L,Faridabad,"51,690","12,869",P,1
+434,Ford,Ecosport ,2019,₹6.95L,Faridabad,"71,456","15,467",D,1
+435,Tata,NEXON ,2019,₹7.13L,Faridabad,"61,470","13,936",P,1
+436,Hyundai,Grand i10 ,2016,₹3.72L,Faridabad,"59,812","7,279",P,
+437,Tata,TIGOR ,2020,₹6.60L,Faridabad,"17,280","12,903",P,1
+438,Hyundai,Verna ,2015,₹4.69L,Faridabad,"2,445","10,440",P,2
+439,Maruti,Baleno ,2017,₹5.20L,Faridabad,"47,472","10,169",P,1
+440,Tata,Tiago ,2017,₹3.97L,Rajkot,"99,594","7,759",P,1
+441,Ford,Ecosport ,2020,₹7.50L,Rajkot,"29,256","14,663",P,
+442,Hyundai,Elite i20 ,2020,₹6.55L,Rajkot,"62,233","12,798",P,2
+443,Maruti,Dzire ,2021,₹6.90L,Rajkot,"18,946","13,490",P,1
+444,Honda,Amaze ,2019,₹5.87L,Rajkot,"47,579","11,476",P,1
+445,Tata,NEXON ,2021,₹7.33L,Rajkot,"34,294","14,323",P,1
+446,Datsun,Redi Go ,2019,₹2.36L,Rajkot,"55,380","4,614",P,1
+447,Honda,Amaze ,2021,₹7.08L,Rajkot,"25,620","13,837",P,1
+448,Honda,WR-V ,2017,₹6.77L,Rajkot,"33,757","13,234",P,1
+449,Hyundai,i10 ,2014,₹3.60L,Rajkot,"54,950","11,957",C,1
+450,Hyundai,Creta ,2018,₹9.88L,Rajkot,"87,533","18,806",D,1
+451,Ford,New Figo ,2021,₹6.08L,Rajkot,"24,958","11,881",P,1
+452,Hyundai,Eon ,2014,₹2.13L,Rajkot,"55,031","4,738",P,1
+453,Renault,Kwid ,2018,₹2.92L,Rajkot,"24,644","5,709",P,1
+454,Volkswagen,Polo ,2017,₹5.59L,Rajkot,"70,677","10,929",P,1
+455,Maruti,New Wagon-R ,2020,₹5.55L,Rajkot,"25,286","10,858",C,1
+456,Maruti,Baleno ,2021,₹6.56L,Rajkot,"40,022","12,825",P,1
+457,Maruti,Wagon R 1.0 ,2018,₹3.68L,Rajkot,"13,191","8,195",C,2
+458,Hyundai,i10 ,2014,₹2.89L,Rajkot,"50,115","6,435",P,2
+459,Maruti,Baleno ,2018,₹6.12L,Rajkot,"77,676","11,967",P,1
+460,Maruti,Wagon R 1.0 ,2015,₹3.23L,Vadodara,"40,713","6,315",P,1
+461,Hyundai,Creta ,2017,₹7.81L,Vadodara,"70,866","15,269",D,2
+462,Honda,Jazz ,2018,₹6.44L,Vadodara,"33,721","12,585",P,1
+463,Volkswagen,Polo ,2015,₹4.87L,Vadodara,"92,547","9,529",P,1
+464,Renault,Kwid ,2020,₹3.39L,Vadodara,"21,447","6,632",P,1
+465,Hyundai,Elite i20 ,2020,₹6.69L,Vadodara,"62,409","13,079",P,1
+466,Maruti,Celerio ,2014,₹3.23L,Vadodara,"71,150","7,185",P,1
+467,Tata,NEXON ,2020,₹6.99L,Vadodara,"56,527","13,666",P,1
+468,Hyundai,NEW SANTRO ,2020,₹4.61L,Vadodara,"69,488","9,009",P,1
+469,Hyundai,NEW I20 ,2023,₹9.96L,Vadodara,"10,434","18,958",P,1
+470,Ford,Ecosport ,2016,₹5.46L,Vadodara,"37,853","10,674",P,1
+471,Hyundai,Grand i10 ,2019,₹5.78L,Vadodara,"33,547","11,300",P,1
+472,Maruti,Swift Dzire ,2016,₹5.03L,Vadodara,"68,933","9,836",P,1
+473,Maruti,Dzire ,2019,₹5.90L,Vadodara,"74,411","11,535",P,1
+474,Maruti,Baleno ,2016,₹5.04L,Vadodara,"39,926","9,851",P,2
+475,Maruti,Baleno ,2022,₹6.98L,Vadodara,"20,176","13,655",P,1
+476,KIA,SONET ,2023,₹12.22L,Vadodara,"6,854","23,263",D,1
+477,MG,HECTOR ,2020,₹12.36L,Vadodara,"71,377","23,522",P,2
+478,Tata,NEXON ,2023,₹10.23L,Vadodara,"9,867","19,478",P,1
+479,Renault,TRIBER ,2022,₹7.40L,Vadodara,"21,742","14,467",P,1
+480,Volkswagen,Vento ,2017,₹5.88L,Agra,"87,526","11,496",D,1
+481,Renault,Kwid ,2022,₹4.47L,Agra,"13,379","8,739",P,1
+482,Renault,Kwid ,2021,₹4.46L,Agra,"14,753","8,719",P,1
+483,Maruti,Swift Dzire ,2013,₹3.52L,Agra,"65,842","11,691",D,1
+484,Hyundai,VENUE ,2020,₹6.64L,Agra,"32,656","12,981",P,1
+485,Ford,Ecosport ,2018,₹5.99L,Agra,"69,276","11,720",D,1
+486,Maruti,Swift ,2017,₹4.12L,Agra,"55,024","8,061",P,2
+487,Hyundai,VENUE ,2021,₹6.92L,Agra,"26,496","13,529",P,1
+488,Honda,City ,2016,₹6.26L,Agra,"68,268","12,248",P,1
+489,Tata,ALTROZ ,2021,₹6.22L,Agra,"40,668","12,160",P,1
+490,Maruti,Ciaz ,2018,₹6.97L,Agra,"42,114","13,626",P,1
+491,Volkswagen,Vento ,2019,₹7.94L,Agra,"60,184","15,523",D,2
+492,Maruti,Swift ,2015,₹4.12L,Agra,"63,947","8,055",P,1
+493,Ford,Ecosport ,2019,₹6.85L,Agra,"76,899","13,392",D,1
+494,Mahindra,XUV300 ,2023,₹10.80L,Agra,"14,513","20,557",P,1
+495,Renault,Duster ,2018,₹6.27L,Agra,"60,158","12,258",D,1
+496,Hyundai,Creta ,2020,₹10.43L,Agra,"64,178","19,853",P,1
+497,Hyundai,VENUE ,2022,₹7.82L,Agra,"11,654","15,288",P,1
+498,Hyundai,VENUE ,2019,₹8.80L,Agra,"59,436","16,750",P,1
+499,Mahindra,XUV300 ,2019,₹8.12L,Agra,"70,913","15,456",D,1
